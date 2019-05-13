@@ -1,0 +1,46 @@
+p, a, li, h1, h2 {
+	color: white;
+}
+html {
+	font-size: 20px;
+	font-family:'KoHo', sans-serif;
+	text-align: center;
+	background:darkred;
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+}
+p, li, a {
+	font-size:  17px;
+	line-height: 1;
+	letter-spacing: 0.8px;
+}
+
+}
+
+body {
+	width: 1920px;
+	margin: 0 auto;
+	background-color: #B5B5B5;
+	padding: 0 20px 20px 20px;
+	border: 5px solid white;
+	text-align: center;
+}
+h1 {
+	margin: 0;
+	padding: 20px 0;
+	color: white;
+	text-shadow:  3px 3px 1px white;
+}
+img {
+	display: block;
+	margin: 0 auto;
+
+}
+h2 {
+	font-size: 45px;
+	text-align: center
+
+}
